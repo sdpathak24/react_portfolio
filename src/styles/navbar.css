@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.name {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.socials a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}

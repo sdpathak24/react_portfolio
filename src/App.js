@@ -4,6 +4,7 @@ import Skills from "./components/skills";
 import Achievements from "./components/achievements";
 import Resume from "./components/resume";
 import Experience from "./components/experience";
+import Referals from "./components/referals";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Experience />
       <Skills />
       <Achievements />
+      <Referals />
       <Resume />
     </div>
   );
