@@ -6,7 +6,7 @@ const Resume = () => {
   return (
     <div>
       My Resume:
-      <a href={File} download={"Sarvagn_Pathak_Resume"} target="_blank">
+      <a href={File} download={"Sarvagn_Pathak_Resume"} target="_blank" rel="noreferrer">
         <MdOutlineFileDownload />
       </a>
     </div>
