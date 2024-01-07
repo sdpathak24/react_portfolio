@@ -1,0 +1,7 @@
+.abt-content {
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}

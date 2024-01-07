@@ -1,16 +1,23 @@
-/* body {
-  background-color: antiquewhite;
-} */
-
 .wrapper {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  /* padding: 0 20px; */
   font-size: 18px;
+  height: 100px;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  background-color: whitesmoke;
+  top: 0;
 }
 
 .name {
   font-family: "Times New Roman", Times, serif;
+  padding: 0 20px;
+}
+
+.socials {
+  padding: 0 20px;
 }
 
 .socials a {
