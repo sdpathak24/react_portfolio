@@ -23,6 +23,7 @@
 
 .date {
   flex: 1; /* Make the date take up available space */
+  column-count: 2;
 }
 
 .right {
@@ -46,4 +47,13 @@
 
 .temp {
   height: 100vh;
+}
+
+@media only screen and (max-width: 495px) {
+  .date {
+    column-count: 1;
+  }
+  .timeline-item::before {
+    left: 25%;
+  }
 }

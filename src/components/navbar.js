@@ -22,7 +22,7 @@ const Navbar = () => {
           <a href="http://" target="_blank" rel="noopener noreferrer">
             <SiHackerone />
           </a>
-          <a href="mailto:sarvagnpathak03@gmail.com">
+          <a href="mailto: sarvagnpathak03@gmail.com">
             <IoMailSharp />
           </a>
         </div>

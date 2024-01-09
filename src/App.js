@@ -3,7 +3,7 @@ import About from "./components/about";
 import Skills from "./components/skills";
 import Resume from "./components/resume";
 import Experience from "./components/experience";
-import Referals from "./components/referals";
+// import Referals from "./components/referals";
 import Projects from "./components/projects";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <Experience />
       <Skills />
       <Projects />
-      <Referals />
+      {/*<Referals /> */}
       <Resume />
     </div>
   );
